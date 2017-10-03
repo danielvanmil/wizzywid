@@ -65,6 +65,7 @@
     ],
     "paper-input": ["paper-textarea"],
     "paper-tabs": ["paper-tab"],
-    "app-layout": ["app-header", "app-toolbar", "app-drawer"]
+    "app-layout": ["app-header", "app-toolbar", "app-drawer"],
+	"paper-item": ["paper-icon-item", "paper-item-body"]
   }
 }
